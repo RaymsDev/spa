@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  spa:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-28T23:05:42.2688346+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 5752fef9d89c7f42116045d996ed774f461e647a91f25fe8da21529da73936df
+    name: spa
+    urls:
+    - https://raymsdev.github.io/spa/spa-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-07-28T23:05:42.2668315+02:00"
